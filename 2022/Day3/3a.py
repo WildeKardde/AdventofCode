@@ -63,4 +63,3 @@ for n in saveditems:
     print ("Letter: ", n, ", Current Value: ", currval, ", and Total: ", totalval)
 
 print(totalval)
-
